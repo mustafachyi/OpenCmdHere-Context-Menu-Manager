@@ -57,3 +57,9 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 ## Contributing
 
 Contributions are welcome! Open an issue or submit a pull request for improvements.
+
+---
+
+## Like this project?
+
+If you found this project useful, please consider giving it a star! ⭐ Your support helps improve the project and encourages others to contribute.
