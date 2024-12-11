@@ -1,0 +1,1 @@
+# OpenCmdHere-Context-Menu-Manager
